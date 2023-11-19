@@ -1,4 +1,4 @@
-# sentiment-chat-app
+# send-ku (sentiment-chat-app)
 
 Aplikasi ini merupakan project pribadi untuk mengisi waktu luang. Pada bagian Backend menggunakan bahasa Typescript, sedangkan untuk sentiment analysis menggunakan bahas Python. aplikasi ini memiliki fitu antara lain:
 
